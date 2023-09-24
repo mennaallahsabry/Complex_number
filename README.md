@@ -21,11 +21,13 @@ separate lines:
 should be in the following format: A + Bi 
 Replace the plus symbol (+) with a minus symbol (-) when B < 0.
 
--For complex numbers with a zero complex part i.e., real numbers, 
-the output should be A+0.00i 
-
-Showing the code output with the following test cases: 
-○ 4 3 
- -4 2
+-For complex numbers with a zero complex part i.e., real numbers, the output should be A+0.00i 
 
 -For complex numbers where the real part is zero and the complex part(B) is nonzero, the output should be: 0.00+Bi 
+
+Showing the code output with the following test cases: 
+
+4 3 
+
+-4 2
+
